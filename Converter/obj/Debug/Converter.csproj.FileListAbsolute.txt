@@ -1,0 +1,10 @@
+C:\Users\nitro\source\repos\Converter\bin\Debug\Converter.exe.config
+C:\Users\nitro\source\repos\Converter\bin\Debug\Converter.exe
+C:\Users\nitro\source\repos\Converter\bin\Debug\Converter.pdb
+C:\Users\nitro\source\repos\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+C:\Users\nitro\source\repos\Converter\obj\Debug\Converter.Form1.resources
+C:\Users\nitro\source\repos\Converter\obj\Debug\Converter.Properties.Resources.resources
+C:\Users\nitro\source\repos\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+C:\Users\nitro\source\repos\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+C:\Users\nitro\source\repos\Converter\obj\Debug\Converter.exe
+C:\Users\nitro\source\repos\Converter\obj\Debug\Converter.pdb
